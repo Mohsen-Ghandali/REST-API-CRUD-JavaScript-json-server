@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "firstName": "Mohsen",
+      "lastName": "Ghandali",
+      "img": "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/boy-eyeglasses-icon.png"
+    },
+    {
+      "id": "2",
+      "firstName": "Anna",
+      "lastName": "Lubcke",
+      "img": "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/girl-icon.png"
+    },
+    {
+      "id": "3",
+      "firstName": "Marcus",
+      "lastName": "Yens",
+      "img": "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/volunteer-icon.png"
+    },
+    {
+      "id": 4,
+      "firstName": "ALex",
+      "lastName": "Mans",
+      "img": "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/man-person-icon.png"
+    }
+  ]
+}
